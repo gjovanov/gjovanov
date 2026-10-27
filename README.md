@@ -38,7 +38,8 @@ docker compose -f docker-compose.selfhost.yml --env-file .env.selfhost up -d
 
 Free and unlimited, self-hosted — same code as the hosted service, no crippled
 community build. Or skip the install and start a workspace at
-[roomler.ai](https://roomler.ai), free for 3 devices.
+[roomler.ai](https://roomler.ai), free for 10 users and 100 devices,
+commercial use included.
 
 ## ⚖️ License
 
